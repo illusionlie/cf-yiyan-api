@@ -1,6 +1,6 @@
 # Cloudflare 一言 API Worker
 
-这是一个简单的 Cloudflare Worker 脚本，用于从外部 JSON 数据源获取并随机返回“一言”（引语或短句）。也可部署为 Cloudflare Page。
+这是一个简单的 Cloudflare Worker 脚本，用于从外部 JSON 数据源获取并随机返回“一言”（引语或短句, 类似 [Hitokoto](https://hitokoto.cn/)）。也可部署为 Cloudflare Page。
 
 ## 功能特性
 
@@ -10,7 +10,9 @@
 
 ## 部署
 
-<center><a href="https://deploy.workers.cloudflare.com/?url=github.com/illusionlie/cf-yiyan-api"><img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare"/></a></center>
+<div align="center">
+<a href="https://deploy.workers.cloudflare.com/?url=github.com/illusionlie/cf-yiyan-api"><img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare"/></a>
+</div>
 
 直接使用上方的 Deploy to Cloudflare 按钮，即可快速部署为 Worker。
 
