@@ -3,4 +3,3 @@ main = "_worker.js"
 compatibility_date = "2025-04-29"
 
 [vars]
-JSON_URL = ""
