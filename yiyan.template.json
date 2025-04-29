@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "content": "时间不会倒流 已经失去的一切也无法挽回"
+    },
+    {
+        "id": 2,
+        "content": "这是一个简单的基于 Cloudflare Pages、Workers 的一言 API",
+        "author": "IllusionLie"
+    },
+    {
+        "id": 3,
+        "content": "id 和 content 是必须包含的, id 为正整数且不重复, from 和 author 可以选择性包含",
+        "from": "https://github.com/illusionlie",
+        "author": "IllusionLie"
+    }
+]

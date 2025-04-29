@@ -1,0 +1,14 @@
+{
+  "name": "cf-yiyan-api",
+  "version": "0.1.0",
+  "description": "cf-yiyan-api",
+  "main": "_worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "build": "wrangler deploy --dry-run",
+    "dev": "wrangler dev --remote"
+  },
+  "devDependencies": {
+    "wrangler": "^4.13.2"
+  }
+}
