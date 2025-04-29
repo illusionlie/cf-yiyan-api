@@ -11,10 +11,10 @@
 ## 部署
 
 <div align="center">
-<a href="https://deploy.workers.cloudflare.com/?url=github.com/illusionlie/cf-yiyan-api"><img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare"/></a>
+<a href="https://deploy.workers.cloudflare.com/?url=https://github.com/illusionlie/cf-yiyan-api"><img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare"/></a>
 </div>
 
-直接使用上方的 Deploy to Cloudflare 按钮，即可快速部署为 Worker。
+直接使用上方的 Deploy to Cloudflare 按钮，并按下方的步骤配置环境变量。
 
 也可手动部署为 Cloudflare Page:
 
